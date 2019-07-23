@@ -1,11 +1,8 @@
 1.Alto
 2.swift
-
 3.zen
-<<<<<<< HEAD
 4.cello
 5.ferari
 6.jeep
-=======
 4.santro
->>>>>>> 62cd8111a173d51d0b9df0ef58947df8fb598a3b
+
